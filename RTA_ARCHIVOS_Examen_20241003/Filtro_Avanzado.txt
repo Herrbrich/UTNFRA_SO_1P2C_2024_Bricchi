@@ -1,0 +1,6 @@
+Mi IP publica es: 201.212.160.250
+Mi usuario es: vagrant
+La URL de mi repositorio es: git@github.com:Herrbrich/UTNFRA_SO_1P2C_2024_Bricchi.gitMi IP publica es: 201.212.160.250
+Mi usuario es: vagrant
+El hash de mi Usuario es: $y$j9T$f7V.J8o8/5JXqaI3xUKKQ0$oND2iaEkOI22AcHc9kfKwylXqBi.VixFO/cPGuxMD..
+La URL de mi repositorio es: git@github.com:Herrbrich/UTNFRA_SO_1P2C_2024_Bricchi.git
